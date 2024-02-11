@@ -4,10 +4,10 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="https://media.licdn.com/dms/image/D4E12AQFGtCLzryEsvQ/article-cover_image-shrink_720_1280/0/1683961037831?e=2147483647&v=beta&t=ZCCnGgCZCv_v08kv8-JhZ0gnYdyq6aOi3NOBT8HEgDY" alt="Logo" width="80" height="80">
+    <img src="https://logowik.com/content/uploads/images/nodejs.jpg" alt="Logo" width="100" height="80">
   </a>
 
-<h3 align="center">Redux Toolkit Async Functions</h3>
+<h3 align="center">CRUD Functions with Node.js</h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
